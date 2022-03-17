@@ -8,5 +8,4 @@ I love reading and skateboarding
 
 > [![peiqun's GitHub stats](https://github-readme-stats.vercel.app/api?username=peiqun)](https://github.com/anuraghazra/github-readme-stats)![peiqun's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=peiqun&layout=compact&hide_border=true&langs_count=10)\
 
-[![trophy](https://github-profile-trophy.vercel.app/peiqun=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-https://github-profile-trophy.vercel.app/peiqun=ryo-ma&theme=flat
+[![trophy](https://github-profile-trophy.vercel.app/peiqun=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)https://github-profile-trophy.vercel.app/peiqun=ryo-ma&theme=flat
