@@ -6,7 +6,7 @@ I love reading and skateboarding
 
 ![Metrics](https://metrics.lecoq.io/peiqun?template=classic&config.timezone=Asia%2FShanghai)  
 
-> [![peiqun's GitHub stats](https://github-readme-stats.vercel.app/api?username=peiqun)](https://github.com/anuraghazra/github-readme-stats)<h1 style="text-align:right">![peiqun's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=peiqun&layout=compact&hide_border=true&langs_count=10)</h1>
+> [![peiqun's GitHub stats](https://github-readme-stats.vercel.app/api?username=peiqun)](https://github.com/anuraghazra/github-readme-stats)<div style="text-align: right"> ![peiqun's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=peiqun&layout=compact&hide_border=true&langs_count=10) </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/peiqun=ryo-ma&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)  
 
