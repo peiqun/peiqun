@@ -1,7 +1,6 @@
 ### Hi there  
 
-I'm Pei Qun 裴群 |A student in school who is motivated by interest
-
+I'm Pei Qun 
 I love reading and skateboarding  
 
 ![Metrics](https://metrics.lecoq.io/peiqun?template=classic&config.timezone=Asia%2FShanghai)  
